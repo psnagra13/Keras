@@ -3,6 +3,7 @@
 ## Creating Model 
 
 model = keras.models.Sequential() # For ANN
+
 model.add(keras.layers.Dense())   # Adding Layers to the model
 
 ## Compiling Model 
